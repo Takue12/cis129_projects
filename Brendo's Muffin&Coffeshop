@@ -1,14 +1,14 @@
 #Define prices
 
 Coffee_Price=5
-Muffins_Price=8
+Muffins_Price=4
 Tax_Rate=0.06
 
 #Get User Input
 
 
-Coffees=int(input("Enter the number of Coffees"))
-Muffins=int(input("Enter the number of Muffins"))
+Coffees=float(input("Enter the number of Coffees"))
+Muffins=float(input("Enter the number of Muffins"))
 
 #Calculation
 
@@ -18,8 +18,6 @@ Muffin_cost=Muffins*Muffins_Price
 subtotal= Coffee_cost+Muffin_cost
 tax=Tax_Rate*subtotal
 total=subtotal+tax
-
-#detail0000000
 
 #Display results
 print("*****************************")
