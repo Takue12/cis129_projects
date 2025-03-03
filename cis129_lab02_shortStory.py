@@ -1,5 +1,5 @@
 #This is a Python program that prints a short story about Milo and his dog Bruno's hunting adventure.
-# Author: Bashir Satoro
+# Author: Brendon Mandizvidza
 
 
     print("As the sun goes down, Milo and his dog Bruno decided to go deep into the forest to hunt.")
